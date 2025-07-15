@@ -8,6 +8,7 @@
 ---
 
 The Mattermost Calendar Plugin is a powerful tool to help you schedule and manage team meetings and events directly within Mattermost.
+This is a Fork from (https://github.com/dmitrijkir/mattermost-plugin-calendar)
 
 
 ## Features

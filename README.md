@@ -22,7 +22,7 @@ The Mattermost Calendar Plugin is a powerful tool to help you schedule and manag
 
 To install the Mattermost Calendar Plugin, follow these steps:
 
-1. Download the latest release from the [Releases](https://github.com/dmitrijkir/mattermost-plugin-calendar/releases) page.
+1. Download the latest release from the [Releases](https://github.com/Eliashirsch/mattermost-plugin-calendar/releases) page.
 2. Upload the plugin to your Mattermost server.
 3. Enable the plugin in your Mattermost settings.
 
@@ -53,10 +53,6 @@ Check API documentation [here](/docs/README.md)
 
 We welcome contributions to the Mattermost Calendar Plugin!
 
-
-## Support
-
-If you encounter any issues or have questions, please create a [GitHub Issue](https://github.com/dmitrijkir/mattermost-plugin-calendar/issues).
 
 
 ## License
